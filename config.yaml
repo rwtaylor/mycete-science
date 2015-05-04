@@ -6,5 +6,5 @@ indexes:
   category: "categories"
 baseurl: "http://mycete.science"
 title: "Dr. John W. Taylor"
-canonifyurls: true
+canonifyurls: false
 ---
